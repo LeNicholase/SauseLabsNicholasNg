@@ -1,1 +1,6 @@
-This repository contains test example for the different platforms and browsers provided by Sauce Labs.
+Hi hi,
+
+Thank you for taking the time to view this task. It has been a pleasure trying out the task.
+
+Cheers
+Nicholas Ng
